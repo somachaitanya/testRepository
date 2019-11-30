@@ -1,0 +1,7 @@
+2019-11-29 19:20:49,320 INFO  [Log] browser opened 
+2019-11-29 19:21:51,778 INFO  [Log] app opened 
+2019-11-29 19:22:16,222 ERROR [Log] robot logged out 
+2019-11-29 19:25:18,197 INFO  [Log] browser opened 
+2019-11-29 19:25:21,556 INFO  [Log] app opened 
+2019-11-29 19:25:24,120 ERROR [Log] login completed 
+2019-11-29 19:25:26,178 ERROR [Log] robot logged out 
